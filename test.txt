@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 master branch
-
-=======
 merge branch
->>>>>>> mergedemo
